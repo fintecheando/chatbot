@@ -1,6 +1,6 @@
 <script type="text/javascript">
     (function(d, m){
-        var kommunicateSettings = {"appId":"39cba992edc99a4c67893527fb0d9bd3c","popupWidget":true,"automaticChatOpenOnNavigation":true,
+        var kommunicateSettings = {"appId":"Your ApiKey","popupWidget":true,"automaticChatOpenOnNavigation":true,
         "labels": {
           'emoji.hover.text': {
             'poor': 'Mala',
